@@ -1,6 +1,6 @@
 .DS_Store
-bazel-bin/
-bazel-Fallacious/
-bazel-out/
-bazel-testlogs/
 *.mobileprovision
+bazel-testlogs
+bazel-out
+bazel-Fallacious
+bazel-bin
