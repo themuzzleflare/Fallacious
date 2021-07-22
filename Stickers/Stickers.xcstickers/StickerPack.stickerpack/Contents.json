@@ -1,0 +1,155 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "ad-hominem.sticker"
+    },
+    {
+      "filename" : "ambiguity.sticker"
+    },
+    {
+      "filename" : "anecdotal.sticker"
+    },
+    {
+      "filename" : "appeal-to-authority.sticker"
+    },
+    {
+      "filename" : "appeal-to-emotion.sticker"
+    },
+    {
+      "filename" : "appeal-to-nature.sticker"
+    },
+    {
+      "filename" : "bandwagon.sticker"
+    },
+    {
+      "filename" : "begging-the-question.sticker"
+    },
+    {
+      "filename" : "black-or-white.sticker"
+    },
+    {
+      "filename" : "burden-of-proof.sticker"
+    },
+    {
+      "filename" : "composition-division.sticker"
+    },
+    {
+      "filename" : "false-cause.sticker"
+    },
+    {
+      "filename" : "genetic.sticker"
+    },
+    {
+      "filename" : "loaded-question.sticker"
+    },
+    {
+      "filename" : "middle-ground.sticker"
+    },
+    {
+      "filename" : "no-true-scotsman.sticker"
+    },
+    {
+      "filename" : "personal-incredulity.sticker"
+    },
+    {
+      "filename" : "slippery-slope.sticker"
+    },
+    {
+      "filename" : "special-pleading.sticker"
+    },
+    {
+      "filename" : "strawman.sticker"
+    },
+    {
+      "filename" : "the-fallacy-fallacy.sticker"
+    },
+    {
+      "filename" : "the-gamblers-fallacy.sticker"
+    },
+    {
+      "filename" : "the-texas-sharpshooter.sticker"
+    },
+    {
+      "filename" : "tu-quoque.sticker"
+    },
+    {
+      "filename" : "anchoring.sticker"
+    },
+    {
+      "filename" : "belief-bias.sticker"
+    },
+    {
+      "filename" : "confirmation-bias.sticker"
+    },
+    {
+      "filename" : "declinism.sticker"
+    },
+    {
+      "filename" : "fundamental-attribution-error.sticker"
+    },
+    {
+      "filename" : "groupthink.sticker"
+    },
+    {
+      "filename" : "in-group-bias.sticker"
+    },
+    {
+      "filename" : "just-world-hypothesis.sticker"
+    },
+    {
+      "filename" : "negativity-bias.sticker"
+    },
+    {
+      "filename" : "optimism-bias.sticker"
+    },
+    {
+      "filename" : "pessimism-bias.sticker"
+    },
+    {
+      "filename" : "reactance.sticker"
+    },
+    {
+      "filename" : "self-serving-bias.sticker"
+    },
+    {
+      "filename" : "the-availability-heuristic.sticker"
+    },
+    {
+      "filename" : "the-backfire-effect.sticker"
+    },
+    {
+      "filename" : "the-barnum-effect.sticker"
+    },
+    {
+      "filename" : "the-bystander-effect.sticker"
+    },
+    {
+      "filename" : "the-curse-of-knowledge.sticker"
+    },
+    {
+      "filename" : "the-dunning-kruger-effect.sticker"
+    },
+    {
+      "filename" : "the-framing-effect.sticker"
+    },
+    {
+      "filename" : "the-halo-effect.sticker"
+    },
+    {
+      "filename" : "the-placebo-effect.sticker"
+    },
+    {
+      "filename" : "the-spotlight-effect.sticker"
+    },
+    {
+      "filename" : "the-sunk-cost-fallacy.sticker"
+    }
+  ]
+}
