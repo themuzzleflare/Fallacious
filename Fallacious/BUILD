@@ -33,31 +33,31 @@ package(
 )
 
 cloudkit_fragment = """
-<key>com.apple.developer.icloud-services</key>
-<array>
-    <string>CloudKit</string>
-</array>
-<key>com.apple.developer.icloud-container-identifiers</key>
-<array>
-    <string>iCloud.{container_identifier}</string>
-</array>
-<key>com.apple.developer.icloud-container-environment</key>
-<string>{cloudkit_environment}</string>
+    <key>com.apple.developer.icloud-services</key>
+    <array>
+        <string>CloudKit</string>
+    </array>
+    <key>com.apple.developer.icloud-container-identifiers</key>
+    <array>
+        <string>iCloud.{container_identifier}</string>
+    </array>
+    <key>com.apple.developer.icloud-container-environment</key>
+    <string>{cloudkit_environment}</string>
 """.format(
     container_identifier = fallacious_bundle_id,
     cloudkit_environment = "Production" if enable_cloudkit_production_environment else "Development"
 )
 
 associated_domains_fragment = """
-<key>com.apple.developer.associated-domains</key>
-<array>
-    <string>applinks:fallacious.tavitian.cloud</string>
-</array>
+    <key>com.apple.developer.associated-domains</key>
+    <array>
+        <string>applinks:fallacious.tavitian.cloud</string>
+    </array>
 """
 
 aps_fragment = """
-<key>aps-environment</key>
-<string>{aps_environment}</string>
+    <key>aps-environment</key>
+    <string>{aps_environment}</string>
 """.format(
     aps_environment = "production" if enable_appstore_build else "development"
 )

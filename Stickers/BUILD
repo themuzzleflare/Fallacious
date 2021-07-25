@@ -28,7 +28,7 @@ ios_sticker_pack_extension(
 	bundle_id = "{bundle_identifier}.stickers".format(
 		bundle_identifier = fallacious_bundle_id
 	),
-	minimum_os_version = "14.0",
+	minimum_os_version = "11.4",
 	version = "//Resources:FallaciousAppVersion",
 	provisioning_profile = "Production.mobileprovision" if enable_appstore_build else "Development.mobileprovision",
 	families = [

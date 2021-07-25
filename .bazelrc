@@ -1,0 +1,1 @@
+build --define=apple.add_debugger_entitlement=no
